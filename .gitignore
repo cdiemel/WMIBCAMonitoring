@@ -8,3 +8,5 @@
 /.vs/VSWorkspaceState.json
 /bin/Debug
 /obj
+/WMIFileMonitoringService.csproj
+/WMIFileMonitoringService.sln
