@@ -13,3 +13,6 @@ Provides the following functionality:
 - Service Monitoring
   - Print Service
   - Client Service
+ 
+# Program Flow
+![Program Flow](https://raw.githubusercontent.com/cdiemel/WMIBCAMonitoring/main/program_flow.png)
